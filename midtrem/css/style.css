@@ -1,0 +1,30 @@
+.nav {
+    list-style: none;
+    text-align: center;
+}
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: rgb(21, 187, 196);
+}
+
+#boo-text {
+    color: red;
+    font-size: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: chocolate;
+}
+
+.pumpkin {
+    text-align: center;
+}
